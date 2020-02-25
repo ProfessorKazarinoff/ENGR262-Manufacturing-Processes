@@ -104,7 +104,7 @@
 
 ### 4.2 Advanced Machinging
 
-#### 4.3 Grinding and Abrasives
+### 4.3 Grinding and Abrasives
 
 ## Module 5 - Assembly Processes
 
