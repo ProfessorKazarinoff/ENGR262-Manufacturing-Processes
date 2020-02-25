@@ -3,6 +3,20 @@ Course materials for ENGR262 Manufacturing Processes, a 2nd year mechanical engi
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
+## Contents
+
+[Learning Objectives](learning_objectives.md)
+
+### Syllabus and Course Calendar
+
+[Syllabus](syllabus/syllabus.md)
+
+[Course Calendar](syllabus/course_calendar.md)
+
+[Syllabus](syllabus/reading_list.md)
+
+
+
 This work is licensed under a [Creative Commons Attribution 4.0 International
 License][cc-by].
 
