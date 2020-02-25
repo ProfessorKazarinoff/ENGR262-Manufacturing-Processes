@@ -13,3 +13,13 @@
 ### 2.	How will students demonstrate that they have met your learning objectives? In other words, how will you assess student learning?
 
 ### 3.	What content and practice opportunities do students need in order to succeed at your assessment?
+
+
+This work is licensed under a [Creative Commons Attribution 4.0 International
+License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
