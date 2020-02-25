@@ -102,7 +102,25 @@
 
 ### 4.1 Traditional Machining
 
+#### 4.1.1 Drilling and Tapping
+
+#### 4.1.2 Milling Operations
+
+#### 4.1.3 Lathe Operations
+
 ### 4.2 Advanced Machinging
+
+#### 4.2.1 Water Jet and Related Processes
+
+#### 4.2.2 EDM and Related Processes
+
+#### 4.2.3 Laser Machinging
+
+#### 4.2.4 Chemical Machinging
+
+#### 4.2.5 Ultrasonic Machining
+
+#### 4.2.6 Plasma Cutting
 
 ### 4.3 Grinding and Abrasives
 
