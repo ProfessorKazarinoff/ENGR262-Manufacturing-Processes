@@ -13,7 +13,7 @@ Course materials for ENGR262 Manufacturing Processes, a 2nd year mechanical engi
 
 [Course Calendar](syllabus/course_calendar.md)
 
-[Syllabus](syllabus/reading_list.md)
+[Reading List](syllabus/reading_list.md)
 
 
 
