@@ -1,7 +1,7 @@
 # ENGR262-Manufacturing-Processes
-Course materials for ENGR262 Manufacturing Processes, a 2nd year mechanical engineering course at Portland Community College. Licensed under CC BY 4.0
+Course materials for ENGR262 Manufacturing Processes, a 2nd year mechanical engineering course at Portland Community College.
 
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+[![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a [Creative Commons Attribution 4.0 International
 License][cc-by].
